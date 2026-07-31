@@ -1,4 +1,5 @@
-# 🌇 Coatmol
+![Showcase](./.github/assets/Background.gif)
+
 **Hello, I am a**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=F7F7F7&width=435&lines=Software+Engineer;Game+Developer)](https://git.io/typing-svg)<br/>
