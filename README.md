@@ -25,6 +25,6 @@
 ![Stats](./profile/stats.svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=coatmol&theme=radical&hide_border=true&border_radius=24)](https://git.io/streak-stats)
 
-![Top Languages](./profile/top-langs.svg)
+<img src="./profile/top-langs.svg" align="top" /> <img src="./profile/metrics.plugin.isocalendar.fullyear.svg" align="top" />
 
 #
